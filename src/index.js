@@ -18,7 +18,6 @@ const initialState = {
     playByPlay: [],
     curYardage: "",
     curDrive: 1
-
 };
 
 const store = createStore(
